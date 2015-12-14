@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Computing & Learning</title>
+ <link href="http://buptkang.github.io//atom.xml" rel="self"/>
+ <link href="http://buptkang.github.io//"/>
+ <updated>2015-12-14T19:08:12+00:00</updated>
+ <id>http://buptkang.github.io/</id>
+ <author>
+   <name>Bo Kang</name>
+   <email>buptkang@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>New Programming Blog Site</title>
+   <link href="http://buptkang.github.io//2015/12/14/blog-site/"/>
+   <updated>2015-12-14T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2015/12/14/blog-site</id>
+   <content type="html">&lt;h2&gt;Finally!&lt;/h2&gt;
+
+&lt;p&gt;Test&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

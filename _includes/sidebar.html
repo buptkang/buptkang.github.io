@@ -1,0 +1,38 @@
+<!-- Google search function -->
+<script language="Javascript" type="text/javascript">
+  function search_google() {
+    var query = document.getElementById("google-search").value;
+    window.open("http://google.com/search?q=" + query + "%20site:" + "http://buptkang.github.io");
+  }
+</script>
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <div class="sidebar-nav-item">
+    <a href="{{ site.baseurl }}">Home</a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+   <!--
+    <a href="http://104.236.111.21/">About</a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+   -->
+    </div>
+    {% for post in site.posts %}
+      <a class="sidebar-nav-item" href="{{ post.url }}">{{ post.date | date_to_string }} &raquo; {{ post.title }}</a>
+    {% endfor %}
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      Who is Bo Kang: <br><a href="https://github.com/buptkang">Programmer</a> <br>
+      Learning Researcher
+    </p>
+  </div>
+</div>

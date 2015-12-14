@@ -1,0 +1,26 @@
+timezone: America/Orlando
+# Dependencies
+markdown:       redcarpet
+redcarpet:
+    extensions: ['smart']
+
+highlighter:         pygments
+fenced_code_blocks:  true
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:            Computing & Learning
+tagline:          Bo Kang's Code & Research Blog
+url:              http://buptkang.github.io/
+paginate:            5
+baseurl:          /
+
+# About/contact
+author:
+  name:           Bo Kang
+  email:          buptkang@gmail.com
