@@ -23,7 +23,7 @@ title:
         <a href=" http://www.eecs.ucf.edu/~jjl/"> Joseph J. LaViola Jr. </a>
        </td>
     <td align="middle">
-    Test
+      <img src="public/Passport.jpg" alt="Drawing" style="width: 200px;" />
     </td>
   </tr>
 </table>
