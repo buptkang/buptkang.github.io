@@ -15,7 +15,7 @@ relative_permalinks: true
 
 # Setup
 title:            Computing & Learning
-tagline:          Bo Kang's Code & Research Blog
+tagline:          Bo Kang's Code & Research
 url:              http://buptkang.github.io/
 paginate:            5
 baseurl:          /

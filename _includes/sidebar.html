@@ -19,20 +19,19 @@
     <div class="sidebar-nav-item">
     <a href="{{ site.baseurl }}">Home</a>
     &nbsp;&nbsp;|&nbsp;&nbsp;
-   <!--
-    <a href="http://104.236.111.21/">About</a>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-   -->
+
+    <a href="/about/">Who is Bo Kang</a>
+      &nbsp;&nbsp;|&nbsp;&nbsp;
+
     </div>
     {% for post in site.posts %}
       <a class="sidebar-nav-item" href="{{ post.url }}">{{ post.date | date_to_string }} &raquo; {{ post.title }}</a>
     {% endfor %}
   </nav>
 
-  <div class="sidebar-item">
+<!--   <div class="sidebar-item">
     <p>
-      Who is Bo Kang: <br><a href="https://github.com/buptkang">Programmer</a> <br>
-      Learning Researcher
+      <a href="https://github.com/buptkang">Bo Kang Bio:</a>
     </p>
-  </div>
+  </div> -->
 </div>
