@@ -23,7 +23,7 @@ title:
         <a href=" http://www.eecs.ucf.edu/~jjl/"> Joseph J. LaViola Jr. </a>
        </td>
     <td align="middle">
-      <img src="../public/Passport.jpg" alt="Drawing" style="width: 200px;" />
+      <img src="public/Passport.jpg" alt="Drawing" style="width: 200px;" />
     </td>
   </tr>
 </table>
@@ -82,11 +82,22 @@ The goal of my Ph.D is developing an intelligent tutoring system to let students
         </ul>
     </div>
 
-## Projects
+## Current Projects
 
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">Diagnosing Understanding using an Interactive Math Tutoring System
+        <small>2014-present</small></h3>
+    </div>
+    <div class="panel-body">
+
+    </div>
+</div>
+
+<br>
 
 ## Inspired Talks
 
 *[<a href="http://worrydream.com/LearnableProgramming/">Learnable Programming</a>]
 <br>
-*[<a href="https://www.youtube.com/watch?v=rzS-1fZ26G8">Multimodal Science Learning (NLP + Sketch)</a>]
+*[<a href="https://www.youtube.com/watch?v=rzS-1fZ26G8">Multimodal Science Learning (NLP+Sketch)</a>]
