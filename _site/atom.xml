@@ -4,13 +4,22 @@
  <title>Computing & Learning</title>
  <link href="http://buptkang.github.io//atom.xml" rel="self"/>
  <link href="http://buptkang.github.io//"/>
- <updated>2016-02-07T02:22:10+00:00</updated>
+ <updated>2016-02-07T16:39:50+00:00</updated>
  <id>http://buptkang.github.io/</id>
  <author>
    <name>Bo Kang</name>
    <email>buptkang@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Blog Site</title>
+   <link href="http://buptkang.github.io//2015/11/10/blog-site/"/>
+   <updated>2015-11-10T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2015/11/10/blog-site</id>
+   <content type="html">&lt;p&gt;http://neuralnetworksanddeeplearning.com/&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Markov Decision Process</title>
@@ -29,6 +38,15 @@
    <updated>2015-08-08T00:00:00+00:00</updated>
    <id>http://buptkang.github.io//2015/08/08/blog-site</id>
    <content type="html">&lt;p&gt;fsadfs&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The power of explanation</title>
+   <link href="http://buptkang.github.io//2014/05/19/blog-site/"/>
+   <updated>2014-05-19T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2014/05/19/blog-site</id>
+   <content type="html">&lt;p&gt;http://michaelnielsen.org/reinventing_explanation/index.html&lt;/p&gt;
 </content>
  </entry>
  

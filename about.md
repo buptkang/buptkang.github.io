@@ -23,7 +23,7 @@ title:
         <a href=" http://www.eecs.ucf.edu/~jjl/"> Joseph J. LaViola Jr. </a>
        </td>
     <td align="middle">
-      <img src="../public/Passport.jpg" alt="Drawing" style="width: 200px;" />
+      <img src="../public/Bo.jpg" alt="Drawing" style="width: 250px;" />
     </td>
   </tr>
 </table>
@@ -57,7 +57,7 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
                     <b>Mixed heuristic search for sketch prediction on chemical structure drawing</b>
                     <br>
                     Bo Kang, Hao Hu, Joseph J LaViola Jr<br>
-                    Proceedings of the 4th Symposium on Sketch-Based Interfaces and Modeling.<br>
+                    Proceedings of the 4th Symposium on Sketch-Based Interfaces and Modeling 2014.<br>
                     [<a href="http://dl.acm.org/citation.cfm?id=2630408">paper</a>]
                 </p>
             </li>
@@ -100,8 +100,13 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
 
 <br>
 
-## Inspired Talks
+## Inspired Research Seeds
 
-*[<a href="http://worrydream.com/LearnableProgramming/">Learnable Programming</a>]
+*[<a href="http://michaelnielsen.org/reinventing_explanation/index.html">Reinventing Explanation</a>]
 <br>
 *[<a href="https://www.youtube.com/watch?v=rzS-1fZ26G8">Multimodal Science Learning (NLP+Sketch)</a>]
+<br>
+*[<a href="http://worrydream.com/LearnableProgramming/">Learnable Programming</a>]
+
+## Reading List
+*[<a href="http://www.squeakland.org/resources/books/readingList.jsp">How to understand learning</a>]
