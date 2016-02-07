@@ -7,7 +7,7 @@ title:
   <tr>
     <td>
       <p>
-            PhD Student<br>
+            Ph.D Student<br>
             Computer Science<br>
             University of Central Florida<br>
         </p>
@@ -33,7 +33,7 @@ My research area is in the intersection between Human Computer Interaction and A
 
 <br><br>
 
-The goal of my Ph.D is developing an intelligent tutoring system to let students understand analytical geometry, the core concept to unify the geometric conceptual understanding and the algebraic procedural development. Currently, I am building the Bayesian-based adaptation method to diagnose students’ understanding so as to tackle the learning uncertainty.
+In my Ph.D, I have been developing a sketch-based math tutoring system to guide students’ understanding toward the analytical geometry domain knowledge. The goal of my Ph.D is to prove its interaction and learnability and their inter-relations. In addition, I am further developing a Bayesian-based adaptation method to diagnose students’ understanding so as to tackle the learning uncertainty.
 
 </p>
 
@@ -86,12 +86,16 @@ The goal of my Ph.D is developing an intelligent tutoring system to let students
 
 <div class="panel panel-default">
     <div class="panel-heading">
-        <h3 class="panel-title">Diagnosing Understanding using an Interactive Math Tutoring System
-        <small>2014-present</small></h3>
+        <h3 class="panel-title">Tutoring Adaptation and Understanding Diagnose upon AnalyticalInk an Interactive Math Tutoring System
+        <small>2015-present</small></h3>
     </div>
-    <div class="panel-body">
-
-    </div>
+    <p class="message" align="justify">
+        The goal of this project is to handle the uncertainty of student understanding toward the analytical geometry domain knowledge. User data are captured from AnalyticalInk, a sketch-based math tutoring system to tutor analytical geometry typical problems. The methodology to use in this project is the inference upon the graphical model + the decision making using the markov decision process.
+    </p>
+    <br>
+    Simulation Matlab Code: Coming soon
+    <br>
+    Real Production code: Coming soon
 </div>
 
 <br>
