@@ -19,8 +19,9 @@ title:
         <hr>
         Ph.D Advisers:
         <br>
-        <a href=" http://pamspam.com/"> Pamela Wisniewski </a>  <br>
         <a href=" http://www.eecs.ucf.edu/~jjl/"> Joseph J. LaViola Jr. </a>
+        <br>
+        <a href=" http://pamspam.com/"> Pamela Wisniewski </a>
        </td>
     <td align="middle">
       <img src="../public/Bo.jpg" alt="Drawing" style="width: 250px;" />
@@ -107,6 +108,8 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
 *[<a href="https://www.youtube.com/watch?v=rzS-1fZ26G8">Multimodal Science Learning (NLP+Sketch)</a>]
 <br>
 *[<a href="http://worrydream.com/LearnableProgramming/">Learnable Programming</a>]
+<br>
+*[<a href="http://www.pythontutor.com/">Python Tutor: Visual Understanding</a>]
 
 ## Reading List
 *[<a href="http://www.squeakland.org/resources/books/readingList.jsp">How to understand learning</a>]
