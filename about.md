@@ -49,8 +49,8 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
                     IUI '16 Proceedings of the 2016 ACM international conference on Intelligent User Interfaces.<br>
                     [<a href="">paper</a>]
                     [<a href="">slides</a>]
-                    [<a href="">demo</a>]
-                    [<a href="">code</a>]
+                    [<a href="https://www.youtube.com/watch?v=erDXTB7pHGY">demo</a>]
+                    [<a href="https://bitbucket.org/buptkang/math-tutor-ui">code</a>]
                 </p>
             </li>
             <li class="list-group-item">
@@ -60,6 +60,7 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
                     Bo Kang, Hao Hu, Joseph J LaViola Jr<br>
                     Proceedings of the 4th Symposium on Sketch-Based Interfaces and Modeling 2014.<br>
                     [<a href="http://dl.acm.org/citation.cfm?id=2630408">paper</a>]
+                    [<a href="https://bitbucket.org/buptkang/chemistrysketchrecognition">code and data</a>]
                 </p>
             </li>
             <li class="list-group-item">
@@ -68,6 +69,10 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
                     Bo Kang, Jared N Bott, Joseph J LaViola Jr<br>
                     Proceedings of Graphics Interface 2013.<br>
                     [<a href="http://dl.acm.org/citation.cfm?id=2532144">paper</a>]
+                    [demo <a href="https://www.youtube.com/watch?v=HtUBzijVzRc">1</a>,
+                    <a href="https://www.youtube.com/watch?v=IFW5d5l_L64">2</a>,
+                    <a href="https://www.youtube.com/watch?v=0A6vXeHAgNo">3</a>
+                    ]
                 </p>
             </li>
             <li class="list-group-item">
@@ -76,8 +81,8 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
                     Bo Kang, Joseph LaViola<br>
                     IUI '12 Proceedings of the 2012 ACM international conference on Intelligent User Interfaces<br>
                     [<a href="http://dl.acm.org/citation.cfm?id=2167014">paper</a>]
-                    [<a href="">demo</a>]
-                    [<a href="">code</a>]
+                    [<a href="https://www.youtube.com/watch?v=SclDrYaA0iM">demo</a>]
+                    [<a href="https://github.com/buptkang/LogicPad">code</a>]
                 </p>
             </li>
         </ul>
@@ -110,6 +115,10 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
 *[<a href="http://worrydream.com/LearnableProgramming/">Learnable Programming</a>]
 <br>
 *[<a href="http://www.pythontutor.com/">Python Tutor: Visual Understanding</a>]
+<br>
+*[<a href="http://www.slatescience.com/">Slate Math Learning</a>]
+<br>
+*[<a href="http://www.nand2tetris.org/">Building a Modern Computer from First Principles</a>]
 
 ## Reading List
 *[<a href="http://www.squeakland.org/resources/books/readingList.jsp">How to understand learning</a>]
