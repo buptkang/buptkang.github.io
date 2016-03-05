@@ -120,6 +120,8 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
 *[<a href="http://www.slatescience.com/">Slate Math Learning</a>]
 <br>
 *[<a href="http://www.nand2tetris.org/">Building a Modern Computer from First Principles</a>]
+<br>
+*[<a href="http://rs.io/the-science-of-problem-solving/">Science of Problem Solving</a>]
 
 ## Reading List
 *[<a href="http://www.squeakland.org/resources/books/readingList.jsp">How to understand learning</a>]
