@@ -48,8 +48,8 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
                     <b>AnalyticalInk: An Interactive Learning Environment for Math Word Problem Solving</b><br>
                     Bo Kang, Arun Kulshreshth, Joseph LaViola Jr.<br>
                     IUI '16 Proceedings of the 2016 ACM international conference on Intelligent User Interfaces.<br>
-                    [<a href="">paper</a>]
-                    [<a href="">slides</a>]
+                    [<a href="http://dl.acm.org/citation.cfm?id=2856789&CFID=532571687&CFTOKEN=39971231">paper</a>]
+                    [<a href="http://www.slideshare.net/KangBo/iui-2016-presentation-slide">slides</a>]
                     [<a href="https://www.youtube.com/watch?v=erDXTB7pHGY">demo</a>]
                     [<a href="https://bitbucket.org/buptkang/math-tutor-ui">code</a>]
                 </p>
