@@ -4,7 +4,7 @@
  <title>Computing & Learning</title>
  <link href="http://buptkang.github.io//atom.xml" rel="self"/>
  <link href="http://buptkang.github.io//"/>
- <updated>2016-03-05T01:34:30+00:00</updated>
+ <updated>2016-03-25T21:43:29+00:00</updated>
  <id>http://buptkang.github.io/</id>
  <author>
    <name>Bo Kang</name>
@@ -13,19 +13,116 @@
 
  
  <entry>
-   <title>My Research Resource Collection toward HCI</title>
+   <title>Paper Readings (Keep Update)</title>
+   <link href="http://buptkang.github.io//2015/01/19/blog-site/"/>
+   <updated>2015-01-19T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2015/01/19/blog-site</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jeffhuang.com/Final_RevMiner_UIST12.pdf&quot;&gt;RevMiner: An Extractive Interface for Navigating Reviews on a Smartphone&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cond.org/DataTone-cr.pdf&quot;&gt;DataTone: Managing Ambiguity in Natural Language Interfaces for Data Visualization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.aclweb.org/anthology/W14-4335&quot;&gt;MVA: The Multimodal Virtual Assistant&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AI APIs</title>
+   <link href="http://buptkang.github.io//2014/07/02/blog-site/"/>
+   <updated>2014-07-02T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2014/07/02/blog-site</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://wit.ai/&quot;&gt;Natural Language for Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://prediction.io/&quot;&gt;Prediction IO for the recommendation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://api.ai/&quot;&gt;Conversational Virtual Assistant&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Resource Collection toward Math Learning</title>
+   <link href="http://buptkang.github.io//2014/03/04/blog-site/"/>
+   <updated>2014-03-04T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2014/03/04/blog-site</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.shelovesmath.com/&quot;&gt;Math Learning Category&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.algebra.com/&quot;&gt;Math Problems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://professionals.collegeboard.com/testing/sat-reasoning/about/sections/math&quot;&gt;College Board&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sat.ivyglobal.com/old-sat-practice&quot;&gt;SAT Math 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://randa4math.wikispaces.com/SAT&quot;&gt;SAT Math 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.drcruzan.com/AnalyticGeometry.html&quot;&gt;Analytical Geometry&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wikihow.com/Use-the-Slope-Intercept-Form-(in-Algebra)&quot;&gt;How to understand line slope&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.aplusclick.com/&quot;&gt;Math and Logic Problems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://betterexplained.com/cheatsheet/&quot;&gt;Better Explained&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://betterexplained.com/articles/measure-any-distance-with-the-pythagorean-theorem/&quot;&gt;Better Explained (distance + pythagorean-theorem )&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.erikthered.com/tutor/&quot;&gt;Math Tutor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://magoosh.com/gmat/2014/challenging-coordinate-geometry-practice-questions/&quot;&gt;Analytical Geometry&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.artofproblemsolving.com/&quot;&gt;Art of Math Problem Solving&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mathmistakes.org/&quot;&gt;Math Mistake&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nixthetricks.com/index.html&quot;&gt;Math Tricks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sonoma.edu/users/w/wilsonst/Courses/Math_45/roa.html&quot;&gt;Algebraic Rule 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chem.tamu.edu/class/fyp/mathrev/mr-algeb.html&quot;&gt;Algebraic Rule 2&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Research Resource Collection toward HCI</title>
    <link href="http://buptkang.github.io//2012/05/04/blog-site/"/>
    <updated>2012-05-04T00:00:00+00:00</updated>
    <id>http://buptkang.github.io//2012/05/04/blog-site</id>
    <content type="html">&lt;p&gt;Thanks for the below research courses that give me more in-depth understanding in the human computer interaction research field:&lt;/p&gt;
 
+&lt;h5&gt;Human Computer Interaction:&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.lri.fr/%7Embl/ENS/FONDIHM/2012/&quot;&gt;Introduction to Human-Computer Interaction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.lri.fr/%7Embl/Stanford/CS477/&quot;&gt;Reinventing Interactive Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ugrad.cs.ubc.ca/%7Ecs444/schedule.html&quot;&gt;Advanced Methods for Human Computer Interaction&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5&gt;Intelligent User Interface:&lt;/h5&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://sp16.cs179.org/&quot;&gt;Design of Useful and Usable Interactive Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dfki.de/%7Esonntag/courses/WS13/IUI.html&quot;&gt;Intelligent User Interfaces - DFKI&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5&gt;Learning Technology:&lt;/h5&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.cs.cornell.edu/courses/CS4154/2015fa/index.php&quot;&gt;Analytics-driven Game Design&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://courses.cs.washington.edu/courses/cse507/14au/index.html&quot;&gt;Compute-Aided Reasoning for Software&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://canvas.instructure.com/courses/913023&quot;&gt;Educational Technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5&gt;HCI Analysis:&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://depts.washington.edu/aimgroup/proj/ps4hci/&quot;&gt;Practical Statistical for HCI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://yatani.jp/teaching/doku.php?id=hcistats:start&quot;&gt;Statistical Methods for HCI Research&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-07-statistical-methods-in-brain-and-cognitive-science-spring-2004/lecture-notes/&quot;&gt;Statistical Methods in Brain and Cognitve Science&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://onlinecourses.science.psu.edu/stat502/&quot;&gt;Analysis of Variance and Design of Experiments&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.usabart.nl/eval/&quot;&gt;Measurement &amp;amp; Evaluation of HCC Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5&gt;Artificial Intelligence:&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://courses.cs.washington.edu/courses/cse507/14au/index.html&quot;&gt;Compute-Aided Reasoning for Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://health.adelaide.edu.au/psychology/ccs/docs/ccs-class/previous.html&quot;&gt;Computational Cognitive Science&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
