@@ -1,55 +1,11 @@
 ---
 layout: page
-title: Enjoyable to Read (Bottom Up)
+title: Computing Learning
 ---
-
-### Recent Attractive Works from AI + NLP fields
-
-<div class="panel-body">
-        <ul class="list-group">
-            <li class="list-group-item">
-                <p>
-                    <b>Unsupervised Learning by Program Synthesis</b><br>
-                    Kevin Ellis, Armando Solar-Lezama, Joshua B. Tenenbaum<br>
-                    [<a href="http://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf">paper</a>]
-                </p>
-            </li>
-        </ul>
-        <ul class="list-group">
-            <li class="list-group-item">
-                <p>
-                    <b>Building a Semantic Parser Overnight</b><br>
-                    YushiWang, Jonathan Berant and Percy Liang<br>
-                    [<a href="http://nlp.stanford.edu/pubs/wang-berant-liang-acl2015.pdf">paper</a>]
-                </p>
-            </li>
-        </ul>
-        <ul class="list-group">
-            <li class="list-group-item">
-                <p>
-                    <b>Personalized Mathematical Word Problem Generation</b><br>
-                    Oleksandr Polozov, Eleanor O’Rourke, Adam M. Smith, Luke Zettlemoyer, Sumit Gulwani, Zoran Popovic<br>
-                    [<a href="http://homes.cs.washington.edu/~polozov/papers/ijcai2015-word-problems.pdf">paper</a>]
-                </p>
-            </li>
-        </ul>
-        <ul class="list-group">
-            <li class="list-group-item">
-                <p>
-                    <b>Solving Geometry Problems: Combining Text and Diagram Interpretation</b><br>
-                    Minjoon Seo, Hannaneh Hajishirzi, Ali Farhadi, Oren Etzioni, Clint Malcolm<br>
-                    [<a href="http://geometry.allenai.org/assets/emnlp2015.pdf">paper</a>]
-                </p>
-            </li>
-        </ul>
-</div>
 
 ### HCI and Statistics (Hypothesis Testing and Survey Sampling)
 
 ### Learning Technology and Statistics (Bayesian Learning)
-
-
-
 
 ### Statistical Computing
 

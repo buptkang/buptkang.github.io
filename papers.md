@@ -1,7 +1,6 @@
 ---
-layout: post
-published: true
-title: Paper Readings (Keep Update)
+layout: page
+title: Enjoyable to Read (HCI, AI, ML, NLP)
 ---
 
 [HCI Research as Problem-Solving, CHI 2016]
@@ -20,6 +19,15 @@ This paper discussed about the gender bias factor toward the fiction writing dom
 
 [Augur: Mining Human Behaviors from Fiction to Power Interactive Systems]
 (http://arxiv.org/abs/1602.06977)
+
+[Unsupervised Learning by Program Synthesis]
+(http://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf)
+
+[Solving Geometry Problems: Combining Text and Diagram Interpretation]
+(http://geometry.allenai.org/assets/emnlp2015.pdf)
+
+[Building a Semantic Parser Overnight]
+(http://nlp.stanford.edu/pubs/wang-berant-liang-acl2015.pdf)
 
 [Item2Vec: Neural Item Embedding for Collaborative Filtering]
 (http://arxiv.org/abs/1603.04259)

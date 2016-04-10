@@ -1,6 +1,5 @@
 ---
-layout: post
-published: yes
+layout: page
 title: Research Resource Collection toward HCI
 ---
 
