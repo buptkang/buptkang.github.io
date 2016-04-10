@@ -4,7 +4,7 @@
  <title>Computing & Learning</title>
  <link href="http://buptkang.github.io//atom.xml" rel="self"/>
  <link href="http://buptkang.github.io//"/>
- <updated>2016-03-30T14:34:12+00:00</updated>
+ <updated>2016-04-10T14:53:25+00:00</updated>
  <id>http://buptkang.github.io/</id>
  <author>
    <name>Bo Kang</name>
@@ -70,7 +70,23 @@
    <link href="http://buptkang.github.io//2015/01/19/blog-site/"/>
    <updated>2015-01-19T00:00:00+00:00</updated>
    <id>http://buptkang.github.io//2015/01/19/blog-site</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jeffhuang.com/Final_RevMiner_UIST12.pdf&quot;&gt;RevMiner: An Extractive Interface for Navigating Reviews on a Smartphone&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://users.comnet.aalto.fi/oulasvir/pubs/hci-research-as-problem-solving-chi2016.pdf&quot;&gt;HCI Research as Problem-Solving, CHI 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://juhokim.com/files/CHI2016-Prompting.pdf&quot;&gt;Revising Learner Misconceptions Without Feedback: Prompting for Reflection on Anomalies, CHI 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eecs.harvard.edu/%7Ekgajos/papers/2016/huang16chordripple.shtml&quot;&gt;ChordRipple: Recommending Chords to Help Novice Composers Go Beyond the Ordinary, IUI 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1603.08832&quot;&gt;Shirtless and Dangerous: Quantifying Linguistic Signals of Gender Bias in an Online Fiction Writing Community&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This paper discussed about the gender bias factor toward the fiction writing domain. The author proposed four research questions to mine such gender bias and proved it using NLP techniques. The interesting finding is that despite women often being the target of negative stereotypes, female authors are equally likely to write such stereotypes as men.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1602.06977&quot;&gt;Augur: Mining Human Behaviors from Fiction to Power Interactive Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1603.04259&quot;&gt;Item2Vec: Neural Item Embedding for Collaborative Filtering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jeffhuang.com/Final_RevMiner_UIST12.pdf&quot;&gt;RevMiner: An Extractive Interface for Navigating Reviews on a Smartphone&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://homes.cs.washington.edu/%7Epolozov/papers/ijcai2015-word-problems.pdf&quot;&gt;Personalized MathematicalWord Problem Generation, IJCAI 2015&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.cond.org/DataTone-cr.pdf&quot;&gt;DataTone: Managing Ambiguity in Natural Language Interfaces for Data Visualization&lt;/a&gt;&lt;/p&gt;
 
@@ -93,9 +109,9 @@
  
  <entry>
    <title>Resource Collection toward Math Learning</title>
-   <link href="http://buptkang.github.io//2014/03/04/blog-site/"/>
-   <updated>2014-03-04T00:00:00+00:00</updated>
-   <id>http://buptkang.github.io//2014/03/04/blog-site</id>
+   <link href="http://buptkang.github.io//2013/02/02/blog-site/"/>
+   <updated>2013-02-02T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2013/02/02/blog-site</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.shelovesmath.com/&quot;&gt;Math Learning Category&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.algebra.com/&quot;&gt;Math Problems&lt;/a&gt;&lt;/p&gt;
