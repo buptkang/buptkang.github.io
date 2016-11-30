@@ -111,6 +111,8 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
 
 *[<a href="http://michaelnielsen.org/reinventing_explanation/index.html">Reinventing Explanation</a>]
 <br>
+*[<a href="https://xkcd.com/thing-explainer/">Thing Explainer: Complicated Stuff in Simple Words</a>]
+<br>
 *[<a href="https://www.youtube.com/watch?v=rzS-1fZ26G8">Multimodal Science Learning (NLP+Sketch)</a>]
 <br>
 *[<a href="http://worrydream.com/LearnableProgramming/">Learnable Programming</a>]
@@ -122,6 +124,8 @@ In my Ph.D, I have been developing a sketch-based math tutoring system to guide 
 *[<a href="http://www.nand2tetris.org/">Building a Modern Computer from First Principles</a>]
 <br>
 *[<a href="http://rs.io/the-science-of-problem-solving/">Science of Problem Solving</a>]
+<br>
+*[<a href="https://www.youtube.com/watch?v=_LwSLDAStts&list=WL&index=11">The only way to change school</a>]
 
 ## Reading List
 *[<a href="http://www.squeakland.org/resources/books/readingList.jsp">How to understand learning</a>]

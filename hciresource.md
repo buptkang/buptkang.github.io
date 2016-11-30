@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research Resource Collection toward HCI
+title: Research Resource Collection HCI + AI
 ---
 
-Thanks for the below research courses that give me more in-depth understanding in the human computer interaction research field:
+Thanks for the below research courses that give me more in-depth understanding in the human computer interaction and intelligence research fields:
 
 ##### Human Computer Interaction:
 
@@ -16,6 +16,9 @@ Thanks for the below research courses that give me more in-depth understanding i
 [Advanced Methods for Human Computer Interaction]
 (https://www.ugrad.cs.ubc.ca/~cs444/schedule.html)
 
+[Human Computer Interaction]
+(http://cs.brown.edu/courses/csci2951-l/)
+
 ##### Intelligent User Interface:
 
 [Design of Useful and Usable Interactive Systems]
@@ -23,6 +26,9 @@ Thanks for the below research courses that give me more in-depth understanding i
 
 [Intelligent User Interfaces - DFKI]
 (http://www.dfki.de/~sonntag/courses/WS13/IUI.html)
+
+[Pen-based User Interfaces]
+(http://www.cs.ucf.edu/courses/cap6105/fall2015/)
 
 ##### Learning Technology:
 
@@ -54,6 +60,26 @@ Thanks for the below research courses that give me more in-depth understanding i
 
 [Statistical Calculation]
 (http://statpages.info/)
+
+#### Machine Learning
+
+[Natural Language Processing]
+(http://www.cs.columbia.edu/~cs4705/)
+
+[Decision Making Under Uncertainty]
+(http://www.cs.toronto.edu/~cebly/2534/CourseMaterial.html)
+
+[Neural Network and Deep Learning]
+(http://neuralnetworksanddeeplearning.com/)
+
+[Probabilistic Graphical Model]
+(https://class.coursera.org/pgm-2012-002/wiki/view?page=LectureSlides)
+
+[Machine Learning by Yaser S. Abu-Mostafa]
+(http://work.caltech.edu/library/)
+
+[Machine Learning by Andrew Ng]
+(https://class.coursera.org/ml-003/lecture)
 
 ##### Artificial Intelligence:
 

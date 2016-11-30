@@ -20,8 +20,17 @@ This paper discussed about the gender bias factor toward the fiction writing dom
 [Augur: Mining Human Behaviors from Fiction to Power Interactive Systems]
 (http://arxiv.org/abs/1602.06977)
 
+[Deep Knowledge Tracing]
+(http://arxiv.org/abs/1506.05908)
+
 [Unsupervised Learning by Program Synthesis]
 (http://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf)
+
+[An Interactive System for Data Structure Development]
+(http://dl.acm.org/citation.cfm?id=2702319)
+
+[Polymorphic Blocks: Formalism-Inspired UI for Structured Connectors, CHI 2015]
+(http://dl.acm.org/citation.cfm?id=2702302)
 
 [Solving Geometry Problems: Combining Text and Diagram Interpretation]
 (http://geometry.allenai.org/assets/emnlp2015.pdf)

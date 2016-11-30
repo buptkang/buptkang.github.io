@@ -4,13 +4,69 @@
  <title>Computing & Learning</title>
  <link href="http://buptkang.github.io//atom.xml" rel="self"/>
  <link href="http://buptkang.github.io//"/>
- <updated>2016-04-10T18:40:22+00:00</updated>
+ <updated>2016-06-29T15:16:31+00:00</updated>
  <id>http://buptkang.github.io/</id>
  <author>
    <name>Bo Kang</name>
    <email>buptkang@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>(Paper Reading) Polymorphic blocks CHI 2015</title>
+   <link href="http://buptkang.github.io//2016/03/15/blog-site/"/>
+   <updated>2016-03-15T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2016/03/15/blog-site</id>
+   <content type="html">&lt;p&gt;https://cseweb.ucsd.edu/~lerner/papers/polymorphic-blocks-chi15.pdf&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Injecting Statistic into Logic as a Combinatoric Problem (1)</title>
+   <link href="http://buptkang.github.io//2016/02/04/blog-site/"/>
+   <updated>2016-02-04T00:00:00+00:00</updated>
+   <id>http://buptkang.github.io//2016/02/04/blog-site</id>
+   <content type="html">&lt;p&gt;In the computer science undergraduate level, logic and data structure are the two main blocks that are taught. Here is the list of logic blocks:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Condition&lt;/li&gt;
+&lt;li&gt;Loops and Iteration&lt;/li&gt;
+&lt;li&gt;Recursion&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By doing a combination among these three blocks, math &amp;amp; computer scientists invented more advanced logic blocks:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Greedy (Forward: Recursion + Condition)&lt;/li&gt;
+&lt;li&gt;Backtracking (Forward and Backward: Recursion + Condition)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The structure blocks can be categorized into different dimensions.  &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One dimension (array, list, hashtable)&lt;/li&gt;
+&lt;li&gt;Two dimension (tree, graph, matrix)&lt;/li&gt;
+&lt;li&gt;High dimension (vertex-based for computer graphics, or even higher)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By fusing logic blocks and structure blocks, more logic blocks have been invented:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Divide &amp;amp; Conquer: (Recursion upon structure)&lt;/li&gt;
+&lt;li&gt;Dynamic Programming: (Recursion + re-use of augmenting structure)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In the high school and further undergraduate level math and statistic learning, we have learnt the following math blocks:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Arithmetic &lt;/li&gt;
+&lt;li&gt;Algebraic&lt;/li&gt;
+&lt;li&gt;Geometric&lt;/li&gt;
+&lt;li&gt;Counting, Probability and Statistic&lt;/li&gt;
+&lt;li&gt;Function (calculus, numerical analysis and other advanced math courses)&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>HCI and Machine Learning a harmonious relationship</title>

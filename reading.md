@@ -3,6 +3,8 @@ layout: page
 title: Computing Learning
 ---
 
+[<a href="https://www.metacademy.org/">Meta Keyword Search</a>]
+
 ### HCI and Statistics (Hypothesis Testing and Survey Sampling)
 
 ### Learning Technology and Statistics (Bayesian Learning)
@@ -38,8 +40,12 @@ title: Computing Learning
                     Pedro Domingos<br>
                     [<a href="https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf">paper</a>]
                 </p>
+                <p>
+                    <b>Experimental Design and Analysis</b><br>
+                    Howard Seltman<br>
+                    [<a href="http://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf">paper</a>]
+                </p>
             </li>
-
         </ul>
 </div>
 
